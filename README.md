@@ -13,6 +13,7 @@ Um site interativo e divertido para organizar um sorteio de Amigo Secreto! Adici
 - [📸 Demonstração](#-demonstração)
 - [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [📥 Como Rodar o Projeto](#-como-rodar-o-projeto)
+- [🌍 Deploy da Página](#-deploy-da-página)
 - [🛠 Funcionalidades](#-funcionalidades)
 - [🎨 Layout e Design](#-layout-e-design)
 - [📈 Melhorias Futuras](#-melhorias-futuras)
@@ -69,6 +70,16 @@ Se estiver utilizando o VS Code:
 1. Instale a extensão **Live Server**
 2. Clique com o botão direito no `index.html`
 3. Selecione **"Open with Live Server"**
+
+---
+
+## 🌍 Deploy da Página
+
+O projeto está disponível online para acesso rápido!
+
+🔗 **Acesse aqui:** [https://ruthciris06.github.io/Jogo-Amigo-Secreto/]
+
+A hospedagem foi feita utilizando **GitHub Pages**
 
 ---
 
